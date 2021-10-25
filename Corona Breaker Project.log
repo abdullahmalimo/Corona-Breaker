@@ -1,0 +1,92 @@
+﻿  Corona Breaker Project.cpp
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(160,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(172,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(173,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(179,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(180,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(185,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(186,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(191,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(192,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(197,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(198,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(258,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(259,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(261,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(261,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(262,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(262,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(263,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(263,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(264,27): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(634,88): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(634,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(985,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(991,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(997,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(998,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1141,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1141,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1158,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1159,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1339,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1340,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1351,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1351,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1368,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1562,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1573,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1573,115): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1590,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1616,105): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1616,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1755,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1775,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1798,24): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1801,30): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1804,30): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1807,30): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1810,30): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1813,30): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1816,30): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(1819,30): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2088,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2120,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2125,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2130,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2140,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2145,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2150,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2324,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2326,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2328,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2486,22): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2489,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2496,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2660,22): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Corona Breaker Project.cpp(2663,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Corona Breaker Project.vcxproj -> C:\Users\Zeyad\Desktop\zezo\parmga\Games\Corona Breaker Project\Debug\Corona Breaker Project.exe
